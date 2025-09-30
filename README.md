@@ -145,12 +145,6 @@ python "CareCrew/app.py"
 - Python 3.10 
 - `pip install -r requirements.txt`  
 
----
-
-## 🔒 Ethics & Safety  
-- ⚠️ **Disclaimer:** This is a prototype — *not medical advice*.  
-- No real PHI — only synthetic/sample data used.  
-- Agents include disclaimers and handle uncertain cases conservatively.  
 
 ---
 
